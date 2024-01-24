@@ -1,2 +1,2 @@
-Hello this is a intermediate repo
+Hello this is an intermediate repo
 
